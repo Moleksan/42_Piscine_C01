@@ -67,21 +67,20 @@ Using loops and conditional logic to manipulate arrays.
   
 Compiler flags: -Wall -Wextra -Werror to catch potential issues in code.  
 Version Control: Git for managing code versions and submission to the 42 School repository.  
+
+How to Run:
+
+1 - Clone this repository
+
+    git@github.com:Moleksan/42_Piscine_C01.git  
   
-How to Run:  
-Clone this repository:  
-bash  
-Copy code  
-git clone 
-  git@github.com:Moleksan/42_Piscine_C01.git   
+2 - Navigate to the exercise directory and compile the C file. For example, for Exercise 00:  
+    
+    cd ex00  
+    gcc -Wall -Wextra -Werror ft_ft.c -o ft_ft  
+    ./ft_ft  
   
 Navigate to the exercise directory and compile the C file. For example, for Exercise 00:  
-  
-bash  
-Copy code  
-cd ex00  
-gcc -Wall -Wextra -Werror ft_ft.c -o ft_ft  
-./ft_ft  
   
 Conclusion:  
 This project further developed my understanding of pointers, memory manipulation, and basic algorithms in C. Through these exercises, I  learned how to work effectively with data structures such as arrays and strings, and apply logic to perform common programming tasks like  swapping, sorting, and counting elements.  
