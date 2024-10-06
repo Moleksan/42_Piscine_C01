@@ -72,7 +72,8 @@ How to Run:
 Clone this repository:  
 bash  
 Copy code  
-git clone git@github.com:Moleksan/42_Piscine_C01.git   
+git clone 
+  git@github.com:Moleksan/42_Piscine_C01.git   
   
 Navigate to the exercise directory and compile the C file. For example, for Exercise 00:  
   
